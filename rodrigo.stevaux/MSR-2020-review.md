@@ -1,3 +1,7 @@
+<!--
+Review rápido da Mining Software Repositories 2020
+!-->
+
 # Notes on MSR 2020
 
 ## The call for papers
